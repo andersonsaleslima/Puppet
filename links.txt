@@ -1,0 +1,22 @@
+#
+*http://devopslab.com.br/como-instalar-e-configurar-o-puppet-server-puppet-cliente-e-modulos-de-configuracao/
+
+#
+https://www.vivaolinux.com.br/artigo/Instalacao-e-Configuracao-do-Puppet
+https://www.vivaolinux.com.br/artigo/Instalacao-e-Configuracao-do-Puppet?pagina=2
+
+# Comparação Puppet, Ansible, Chef, Docker, vagrant:
+https://www.quora.com/What-is-difference-between-docker-puppet-chef-and-vagrant
+https://www.linuxnix.com/puppet-vs-ansible-vs-docker-comparison/
+https://www.4linux.com.br/video/workshop-infraestrutura-agil-com-docker-git-jenkins-puppet-e-ansible-parte-2
+http://instruct.com.br/puppet-x-ansible-qual-ferramenta-escolher/
+
+# Ansible e Docker
+https://www.ibm.com/developerworks/br/cloud/library/cl-provision-docker-containers-ansible/index.html
+https://thenewstack.io/are-docker-users-migrating-to-ansible-and-away-from-puppet-and-chef/
+http://flaviosilveira.com/2016/ansible-desperte-a-automacao-em-voce/
+
+# Puppet e zabbix:
+https://forge.puppet.com/puppet/zabbix
+http://devopslab.com.br/como-instalar-e-configurar-o-zabbix-agent-de-forma-automatica-via-puppet/
+
